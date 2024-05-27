@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "md5": "^2.3.0",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  },
+  "name": "migration",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
